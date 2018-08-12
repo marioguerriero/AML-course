@@ -7,3 +7,4 @@
 datasets/
 spark-warehouse/
 lastfm_model.spark/
+.DS_Store
